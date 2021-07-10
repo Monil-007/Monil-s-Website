@@ -1,0 +1,150 @@
+.Starter{
+  text-align: center;
+  margin-top: 3px;
+  font-family: Ubuntu,fantasy;
+  font-size: 35px;
+  color: red;
+}
+
+.Intro{
+  margin-top: 150px;
+  color: #ffad33;
+  font-size: 25px;
+}
+
+.competitive-coding{
+  margin-top: 50px;
+}
+
+.Compt-heading{
+  color:#4dff4d;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: monospace;
+}
+
+.aligned{
+  display: flex;;
+  align-items: center;
+}
+.profile-pic{
+  border-radius: 100%;
+  width: 400px;
+  height: 350px;
+}
+
+.content1{
+  padding-left: 20px;
+}
+
+.Strength{
+  margin-top: 20px;
+  color: #ffad33;
+  font-size: 25px;
+}
+.CCimage{
+  width: 400px;
+  height: 350px;
+}
+.HKimage{
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+}
+
+.Hobbies-heading{
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: monospace;
+}
+
+.Hobbies{
+  color: orange;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  /* background-color: #ef8172; */
+  background: "images/Backtheme.jpg";
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+#press {
+  /*background-color: #ef8172;*/
+  background: "images/Backtheme.jpg";
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.Slide-content{
+  font-size: 6px;
+  font-weight: lighter;
+  font-family: fantasy,inherit;
+  text-align: center;
+  color: #000;
+}
+
+.SlideShow{
+  background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+}
+.SlideSow-heading{
+  color:#4dff4d;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 38px;
+  font-family: Ubuntu,fantasy;
+  font-weight: bolder;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 8px;
+}
+.Web-links{
+  text-align: center;
+  font-size: 50px;
+}
+
+.Footer{
+  margin-top: 15px;
+  font-size: 20px;
+  color: red;
+  text-align: center;
+}
+.Footer-text{
+
+}
+.soc-link{
+  color: #fff;
+  text-align: center;
+  margin-right: 18px;
+  padding-right: 18px;
+}
+.soc-link:hover{
+  color: red;
+}
+
+.copyright{
+  text-align: center;
+  color: #fff;
+  font-size: 17px;
+}
